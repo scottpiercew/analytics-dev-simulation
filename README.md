@@ -2,6 +2,11 @@
 
 Experience the end-to-end collaborative process of developing code that’s production-ready
 
+## TODO
+
+- prioritize exercises
+- what's technical architecture look like?
+
 ## Overview
 
 - picture of process
@@ -15,13 +20,13 @@ Principles:
 - automate the complex things so we can focus on the basics (e.g., use Docker to provision a lot of the DevOps pipeline so participants don't have to do that)
 
 Design constraints:
-- javascript only
+- javascript and python only
 - analytics product development (not ad-hoc analytics project)
 
 
 ## Learning Objectives
 
-- basic setup of a dev environment
+- basic setup of a development environment
 - familiarity with production-level analytipcs software product development workflow, tools, and collaboration
 
 Skills we'll touch on:
@@ -30,6 +35,29 @@ Skills we'll touch on:
 - infrastructure
 - DevOps
 - collaboration
+
+
+## Target Audience
+
+
+## Requirements
+
+
+## Preparation
+
+
+## Exercises
+
+### High Priority
+
+
+### Medium Priority
+
+
+### Low Priority
+
+
+### To Prioritize
 
 include some way to get folks without formal CS background up to speed on technical terms (e.g., CI/CD)
 Include some overview of the other roles a developer might work with
@@ -50,22 +78,11 @@ submit changes
 code review
 https://www.thumbtack.com/engineering/hitchhikers-guide-to-code-reviews/
 debug a failed build
-Connect to remote server to debug 
+Connect to remote server to debug
 (command line tips)
 work with QA engineer to tweak a change
 performance tune the change
 
-
-## Target Audience
-
-
-## Requirements
-
-
-## Preparation
-
-
-## Exercises
 
 
 ## Project??
