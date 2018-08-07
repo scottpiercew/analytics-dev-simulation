@@ -4,8 +4,10 @@ Experience the end-to-end collaborative process of developing code that’s prod
 
 ## TODO
 
+- come up with project theme
 - prioritize exercises
 - what's technical architecture look like?
+- what's the process look like?
 
 ## Overview
 
@@ -18,6 +20,7 @@ Principles:
 - buy/copy vs build (let's not reinvent the wheel)
 - outsource where needed (e.g., ask a scrum master if they have good estimation exercise instead of creating yourself)
 - automate the complex things so we can focus on the basics (e.g., use Docker to provision a lot of the DevOps pipeline so participants don't have to do that)
+- minimize dependencies
 
 Design constraints:
 - javascript and python only
