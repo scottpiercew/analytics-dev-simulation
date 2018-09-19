@@ -93,3 +93,7 @@ performance tune the change
 
 ## Additional Resources
 
+## Backlog of future enhancements
+
+- more complex architecture that includes db, service/api, browser app and is managed with Docker
+
