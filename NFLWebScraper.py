@@ -30,7 +30,7 @@ for tr2 in nfc.find_all('tr'):
     nfc_division = tr2.find("td", class_="right left")
 
     if nfc_division is not None:
-        dic = nfc_division.text
+        div = nfc_division.text
 
     nfc_team = tr2.find('a')
 
