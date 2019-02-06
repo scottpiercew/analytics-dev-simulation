@@ -2,10 +2,21 @@
 
 Experience the end-to-end collaborative process of developing code that’s production-ready
 
-##Tools to install / setup
+## Course Pre-Reqs
+The more detailed steps covered in the install/setup section will be covered in the course. Please just install these tools prior:
+
+Create a GitHub account: https://github.com \
+Install GitKraken: https://www.gitkraken.com \
+Install Python 2.7: https://www.python.org/downloads/release/python-2715/ \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows: Windows x86-64 MSI installer \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mac:     macOS 64-bit installer \
+Install the latest version of PyCharm Community Edition: www.jetbrains.com/pycharm/download/ but do not go through setup
+
+
+## Tools to install / setup
 Follow these steps in order.
 
-####GitHub
+#### GitHub
 Create a GitHub account: https://github.com \
 Once you have created a GitHub account navigate to the following repository: https://github.com/npratt3284/analytics-dev-simulation \
 Click the "Fork" button in the middle top right of the page. \
@@ -13,7 +24,7 @@ This will now be available as a repository to you and can be viewed by navigatin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click your account logo in the top right of the page \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select "Your Repositories" to view this
 
-####GitKraken
+#### GitKraken
 Install GitKraken: https://www.gitkraken.com \
 Once GitKraken has been installed we need to clone the repository that was forked above. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click on the folder icon in the top left of the screen \
@@ -25,12 +36,12 @@ Once GitKraken has been installed we need to clone the repository that was forke
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double click the WebScraperSim branch under the Remote section
 
 
-####Python
+#### Python
 Install Python 2.7: https://www.python.org/downloads/release/python-2715/ \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Windows: Windows x86-64 MSI installer \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mac:     macOS 64-bit installer
 
-####PyCharm IDE
+#### PyCharm IDE
 Install the latest version of PyCharm Community Edition: www.jetbrains.com/pycharm/download/ \
 Steps during installation: \
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select "Do not use a previous configuration" \
