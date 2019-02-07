@@ -30,7 +30,7 @@ Design constraints:
 ## Learning Objectives
 
 - basic setup of a development environment
-- familiarity with production-level analytipcs software product development workflow, tools, and collaboration
+- familiarity with production-level analytics software product development workflow, tools, and collaboration
 
 Skills we'll touch on:
 - software development
